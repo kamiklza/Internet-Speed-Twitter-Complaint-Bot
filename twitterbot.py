@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.common.exceptions import ElementNotSelectableException, NoSuchElementException, ElementNotInteractableException
-from selenium.webdriver.common.keys import Keys
+
 import time
 desktop_driver_path = "C:/Users/user/PycharmProjects/chromedriver.exe"
 dl_speed = None
